@@ -1,1 +1,38 @@
 refactoring = sebuah proses mengubah kode agar menjadi lebih 'baik' tanpa mengubah fungsionalitasnya
+scope = bagaimana sebuah variabel dapat diakses dalam program
+Rekursif = sebuah fungsi yang memanggil dirinya sendiri | semua looping bisa dibuat rekursif, tapi tidak sebaliknya
+Base Case = kondisi akhir dan Rekursif yang menghasilkan nilai
+return = kembalikan nilai
+function declaration rumusnya {
+    function i'detifier (parameterList opt) { functionBody}
+}
+function Expression {
+    function identifier opt (parameterList opt) { functionBody}
+}
+array = susunan sistematis dari objek-objek yang serupa | tipe data yang digunakan untuk mendeskripsikan kumpulan
+elemen (nilai atau variabel) yang tiap tiap elemen memeliki index.
+variabel =  sesuatu yang bisa menampung nilai
+Manipulasi array {
+    - menambah elemen pada array
+    - menghapus elemen pada array
+    - menampilkan seluruh isi array
+
+    length = untuk mengetahui berapa jumlah elemen pada array
+    join = yang menggabungkan seluruh isi array dan mengubahnya sebuah string\
+    method = function yang adalah di dalam sebuah object
+    push, pop , shift, unshift = digunakan untuk menambah atau menghapus elemen array
+    fliter, find = mencari elemen pada array
+    find =   bisa mengembalikan satu nilai
+    fliter = bisa mengembalikan banyak nilai
+    object = kumpulan nilai yang memiliki nama
+    this adalah = sebuah keyword spesial yang secara otomatis didefiniskan pada setiap function
+    === = apakah window sama dengan this
+    ==	Membandingkan kedua nilai apakah sama (tidak identik).
+!=	Membandingkan kedua nilai apakah tidak sama (tidak identik).
+===	Membandingkan kedua nilai apakah identik.
+!==	Membandingkan kedua nilai tidak identik.
+>	Membandingkan dua nilai apakah nilai pertama lebih dari nilai kedua.
+>=	Membandingkan dua nilai apakah nilai pertama lebih atau sama dengan nilai kedua.
+<	Membandingkan dua nilai apakah nilai pertama kurang dari nilai kedua.
+<=	Membandingkan dua nilai apakah nilai pertama kurang atau sama dengan nilai kedua.
+}
